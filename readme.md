@@ -1,7 +1,7 @@
 ##### 环境要求：
 
- 		##### &nbsp;&nbsp;&nbsp;&nbsp;====>python3.x
- 		##### &nbsp;&nbsp;&nbsp;&nbsp;====>tensorflow2.8+
+&nbsp;&nbsp;&nbsp;&nbsp;====>python3.x
+&nbsp;&nbsp;&nbsp;&nbsp;====>tensorflow2.8+
 
 ##### 使用方法：
 
@@ -11,11 +11,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;3. **终端执行：**
 
-'''python
 
-python3 ./transform.py
 
-'''
+	python3 ./transform.py
+
 
 ###### 训练后的模型将会保存到当前文件夹的anomaly_detection文件夹下。
 
