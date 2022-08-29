@@ -1,6 +1,6 @@
 ##### 环境要求：
 
-&nbsp;&nbsp;&nbsp;&nbsp;*====>python3.x*&emsp;
+&nbsp;&nbsp;&nbsp;&nbsp;*====>python3.x*    &emsp;
 &nbsp;&nbsp;&nbsp;&nbsp;*====>tensorflow2.8+*
 
 ##### 使用方法：
